@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Queen",
+    "image": "https://glide-media-cloud.s3-accelerate.amazonaws.com/2013/10/Queen-The-Miracle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Pink Floyd",
+    "image": "https://res-3.cloudinary.com/ybmedia/image/upload/c_crop,h_1117,w_1985,x_0,y_252/c_fill,f_auto,h_495,q_auto,w_880/v1/m/b/8/b8601cf5a1ce6be0421f710c8cdf89f05db3dd97/GettyImages-74290244.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Weezer",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Pinkerton_cover.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "OutKast",
+    "image": "https://theundefeated.com/wp-content/uploads/2016/06/atliens.jpg?w=394",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Metallica",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "The Cars",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/The_Cars_-_Heartbeat_City.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Guns N' Roses",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg/220px-GunsnRosesAppetiteforDestructionalbumcover.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Miles Davis",
+    "image": "https://static.billboard.com/files/styles/900_wide/public/media/Miles-Davis-Bitches-Brew-album-covers-billboard-1000x1000.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "NOFX",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYomg6Ke77Om5PfmF0kk3SCVpZrA7OTHoaR_Ji43F4u7UWFWzZ",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Nas",
+    "image": "https://static.billboard.com/files/styles/900_wide/public/media/Nas-Illmatic-album-covers-billboard-1000x1000.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Green Day",
+    "image": "http://res-1.cloudinary.com/ybmedia/image/upload/c_scale,f_auto,q_auto,w_700/v1/m/c/0/c0a8a9710a01ef2c6928a269bcc0db4ae999ca42/24GreenD.jpg",
+    "occupation": "Superhero",
+    "location": "Earth",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "The Beatles",
+    "image": "http://res-2.cloudinary.com/ybmedia/image/upload/c_scale,f_auto,q_auto,w_700/v1/m/0/6/065fe874298662a7127bb961c226e8219b5ba730/05AbbeyRoad.jpg",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump",
+    "clicked": false
+  }
+]

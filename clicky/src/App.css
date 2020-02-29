@@ -1,0 +1,19 @@
+.gameStats{
+    width: 100%;
+}
+
+.row{
+    margin: 15px;
+    width: 100%;
+}
+
+img {
+    height: 300px;
+    width: 300px
+}
+
+h4 {
+    text-align: center;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
