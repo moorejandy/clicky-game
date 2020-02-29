@@ -15,8 +15,6 @@
     "id": 3,
     "name": "Weezer",
     "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Pinkerton_cover.jpg",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head",
     "clicked": false
   },
   {
@@ -65,16 +63,12 @@
     "id": 11,
     "name": "Green Day",
     "image": "http://res-1.cloudinary.com/ybmedia/image/upload/c_scale,f_auto,q_auto,w_700/v1/m/c/0/c0a8a9710a01ef2c6928a269bcc0db4ae999ca42/24GreenD.jpg",
-    "occupation": "Superhero",
-    "location": "Earth",
     "clicked": false
   },
   {
     "id": 12,
     "name": "The Beatles",
     "image": "http://res-2.cloudinary.com/ybmedia/image/upload/c_scale,f_auto,q_auto,w_700/v1/m/0/6/065fe874298662a7127bb961c226e8219b5ba730/05AbbeyRoad.jpg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump",
     "clicked": false
   }
 ]
